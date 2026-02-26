@@ -3,7 +3,7 @@ certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 coloredlogs==15.0.1
-cryptography==42.0.5
+cryptography==46.0.5
 environ-config==23.2.0
 humanfriendly==10.0
 idna==3.6
